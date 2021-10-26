@@ -1,2 +1,2 @@
 - [飯について考える](./food.html)
-- [ユエスレオネ人口のminを掘る](./yuesleone_minpop.html)
+- [ユエスレオネ人口のminを考える](./yuesleone_minpop.html)
